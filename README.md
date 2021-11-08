@@ -1,6 +1,6 @@
-# Scroll JavaScript Project
+# Tabs JavaScript Project
 
-A Udemy project showcasing scroll effect in JavaScript. This is a more JavaScript type of project within the JavaScript section of the course. 
+A Udemy project showcasing tab display effect in JavaScript. This is a more JavaScript type of project within the JavaScript section of the course. 
 
 ## Contributions
 
